@@ -88,7 +88,7 @@ body {
 	width: calc(50% - 15px);
 }
 
-.button:hover{
+.button:hover {
 	background-image: url("https://scottyzen.sirv.com/Images/v/button.png");
 	background-size: 100% 100%;
 	color: #310bee;
@@ -97,7 +97,7 @@ body {
 	font-weight: bold;
 }
 
-.button:active{
+.button:active {
 	transform: translateY(4px);
 }
 
@@ -120,7 +120,7 @@ body {
 	}
   }
 
-  .button:visited{
+  .button:visited {
 	  text-decoration-color: antiquewhite;
 	  color: black;
   }
