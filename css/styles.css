@@ -120,6 +120,11 @@ body {
 	}
   }
 
+  .button:visited{
+	  text-decoration-color: antiquewhite;
+	  color: black;
+  }
+
 
 .footer {
 	background-color: #141414;
